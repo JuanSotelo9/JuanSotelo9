@@ -55,13 +55,21 @@ Plataforma que genera proyectos API completos a partir de modelos relacionales d
 
 [View Repository](https://github.com/JuanSotelo9/Generador-de-APIs)
 
-### 🐍 Snake Game
+### 📅 PrestamosUD
 
-#### Python • Pygame • Pytest • GitHub Actions
+#### Java 17 • Spring Boot • MySQL • REST API • JWT • JPA
 
-Videojuego desarrollado aplicando MVC y Adapter, con pruebas automatizadas, linting e integración continua.
+Sistema full-stack para la reserva y gestión de recursos universitarios como laboratorios, aulas, tabletas y portátiles.
+- API REST desarrollada con Spring Boot
+- Autenticación y autorización mediante Spring Security y JWT
+- Persistencia con Spring Data JPA y MySQL
+- Gestión de disponibilidad y reservas por franjas horarias
+- Reglas de negocio para cancelación, estados y calificación de reservas
+- Tareas programadas para actualización automática de estados y disponibilidades
+- Frontend desarrollado con HTML, CSS y JavaScript
+- Proyecto académico actualmente en proceso de refactorización hacia una arquitectura más profesional
 
-[View Repository](https://github.com/JuanSotelo9/SnakeGame)
+[View Repository](https://github.com/JuanSotelo9/ReservaUD)
 
 📌 Currently working on
 🔨 Refactoring and improving existing backend projects
