@@ -57,17 +57,22 @@ Plataforma que genera proyectos API completos a partir de modelos relacionales d
 
 ### 📅 PrestamosUD
 
-#### Java 17 • Spring Boot • MySQL • REST API • JWT • JPA
+#### Java 17 • Spring Boot • React • TypeScript • MySQL • REST API • JWT • Docker
 
-Sistema full-stack para la reserva y gestión de recursos universitarios como laboratorios, aulas, tabletas y portátiles.
+Sistema full-stack para la reserva y gestión de recursos universitarios como laboratorios, aulas, tabletas, portátiles y video beams.
 - API REST desarrollada con Spring Boot
-- Autenticación y autorización mediante Spring Security y JWT
+- Autenticación y autorización stateless mediante Spring Security y JWT
+- Frontend SPA desarrollado con React, TypeScript y Vite
 - Persistencia con Spring Data JPA y MySQL
-- Gestión de disponibilidad y reservas por franjas horarias
-- Reglas de negocio para cancelación, estados y calificación de reservas
-- Tareas programadas para actualización automática de estados y disponibilidades
-- Frontend desarrollado con HTML, CSS y JavaScript
-- Proyecto académico actualmente en proceso de refactorización hacia una arquitectura más profesional
+- Gestión de disponibilidad y reservas mediante franjas horarias
+- Roles y permisos para usuarios y administradores
+- Panel administrativo con métricas, gráficas y gestión de recursos
+- Búsqueda avanzada y filtros server-side con paginación
+- Migraciones y seed de base de datos mediante Flyway
+- Documentación interactiva de la API con Swagger/OpenAPI
+- Testing unitario y de integración con JUnit, Mockito y Testcontainers
+- Testing de componentes con Vitest y Testing Library
+- Docker Compose para despliegue reproducible
 
 [View Repository](https://github.com/JuanSotelo9/ReservaUD)
 
