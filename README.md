@@ -10,6 +10,14 @@ Me interesa especialmente el desarrollo de software, diseño de APIs, bases de d
 - Java
 - Spring Boot
 - REST APIs
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- JWT
+- Swagger / OpenAPI
+- Flyway
+- JUnit / Mockito
+- Testcontainers
 - Python
 - FastAPI
 ### Databases
