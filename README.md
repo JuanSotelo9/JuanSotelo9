@@ -25,6 +25,28 @@ Me interesa especialmente el desarrollo de software, diseño de APIs, bases de d
 - Mockito
 - GitHub Actions
 ## 🚀 Featured Projects
+
+### 📅 PrestamosUD
+
+#### Java 17 • Spring Boot • React • TypeScript • MySQL • REST API • JWT • Docker
+
+Sistema full-stack para la reserva y gestión de recursos universitarios como laboratorios, aulas, tabletas, portátiles y video beams.
+- API REST desarrollada con Spring Boot
+- Autenticación y autorización stateless mediante Spring Security y JWT
+- Frontend SPA desarrollado con React, TypeScript y Vite
+- Persistencia con Spring Data JPA y MySQL
+- Gestión de disponibilidad y reservas mediante franjas horarias
+- Roles y permisos para usuarios y administradores
+- Panel administrativo con métricas, gráficas y gestión de recursos
+- Búsqueda avanzada y filtros server-side con paginación
+- Migraciones y seed de base de datos mediante Flyway
+- Documentación interactiva de la API con Swagger/OpenAPI
+- Testing unitario y de integración con JUnit, Mockito y Testcontainers
+- Testing de componentes con Vitest y Testing Library
+- Docker Compose para despliegue reproducible
+
+[View Repository](https://github.com/JuanSotelo9/ReservaUD)
+
 ### 📚 Bibliotech
 
 #### Java • PostgreSQL • REST API • JWT • Docker
@@ -54,27 +76,6 @@ Plataforma que genera proyectos API completos a partir de modelos relacionales d
 - API documentada con Swagger
 
 [View Repository](https://github.com/JuanSotelo9/Generador-de-APIs)
-
-### 📅 PrestamosUD
-
-#### Java 17 • Spring Boot • React • TypeScript • MySQL • REST API • JWT • Docker
-
-Sistema full-stack para la reserva y gestión de recursos universitarios como laboratorios, aulas, tabletas, portátiles y video beams.
-- API REST desarrollada con Spring Boot
-- Autenticación y autorización stateless mediante Spring Security y JWT
-- Frontend SPA desarrollado con React, TypeScript y Vite
-- Persistencia con Spring Data JPA y MySQL
-- Gestión de disponibilidad y reservas mediante franjas horarias
-- Roles y permisos para usuarios y administradores
-- Panel administrativo con métricas, gráficas y gestión de recursos
-- Búsqueda avanzada y filtros server-side con paginación
-- Migraciones y seed de base de datos mediante Flyway
-- Documentación interactiva de la API con Swagger/OpenAPI
-- Testing unitario y de integración con JUnit, Mockito y Testcontainers
-- Testing de componentes con Vitest y Testing Library
-- Docker Compose para despliegue reproducible
-
-[View Repository](https://github.com/JuanSotelo9/ReservaUD)
 
 📌 Currently working on
 🔨 Refactoring and improving existing backend projects
