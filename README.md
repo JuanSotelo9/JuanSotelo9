@@ -85,11 +85,11 @@ Plataforma que genera proyectos API completos a partir de modelos relacionales d
 
 [View Repository](https://github.com/JuanSotelo9/Generador-de-APIs)
 
-📌 Currently working on
-🔨 Refactoring and improving existing backend projects
-🚀 Building a REST API-based Headless CMS
-📚 Strengthening my knowledge of Spring Boot, software architecture and backend development
-📫 Contact
+## 📌 Currently working on
+- 🔨 Refactoring and improving existing backend projects
+- 📚 Strengthening my knowledge of Spring Boot, software architecture and backend development
+
+## 📫 Contact
 
 * LinkedIn: [Juan Sotelo](https://www.linkedin.com/in/juan-sotelo-r/)
 * Email: juanpablosr2013@hotmail.com
